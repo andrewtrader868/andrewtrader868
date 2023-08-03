@@ -1,2 +1,5 @@
-- Main Account: @andrewchan868
+- Main Account: 
+---
+GitHub: [@andrewchan868](https://github.com/andrewchan868)
+```
 
